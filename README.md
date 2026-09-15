@@ -28,7 +28,7 @@ LLM APIs • Ollama • RAG
 
 ## 🚀 Featured Projects
 
-### 🤖 Nexus — Universal AI Chat Platform
+### 🤖 SANGAM — Universal AI Chat Platform
 
 A privacy-first AI workspace that brings cloud and local LLMs
 into one modern interface.

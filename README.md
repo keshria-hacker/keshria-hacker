@@ -131,8 +131,9 @@ class Abhishek:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/keshria--hacker-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshria-hacker)&nbsp;[![Email](https://img.shields.io/badge/keshriahacker@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:keshriahacker@gmail.com)
-
+[![GitHub](https://img.shields.io/badge/keshria--hacker-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshria-hacker)&nbsp;
+[![Email](https://img.shields.io/badge/keshriahacker@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:keshriahacker@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/abhishekkeshri7319)
 ```
 ╔════════════════════════════════════════╗
 ║   Let's build something useful  🚀    ║
